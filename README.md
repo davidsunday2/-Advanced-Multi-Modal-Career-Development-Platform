@@ -1,6 +1,5 @@
-# 🚀 AI Career Coach & Simulator
+<img width="2940" height="1646" alt="image" src="https://github.com/user-attachments/assets/1723c4b6-579c-450e-a67f-099ad1e7290c" />
 
-## Elevator Pitch
 An advanced, multi-modal AI Career Coach that provides personalized learning paths and simulation-based training to prepare students for the modern workforce. Powered by RAG and agentic AI workflows.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -124,12 +123,6 @@ echo "REACT_APP_WEBSOCKET_URL=ws://localhost:8000/ws" >> .env
 npm start
 ```
 
-### Access Points
-- **Frontend**: http://localhost:3000
-- **Backend API**: http://localhost:8000
-- **API Documentation**: http://localhost:8000/docs
-- **Interactive API**: http://localhost:8000/redoc
-
 ## 📋 Environment Variables
 
 ### Backend (.env)
@@ -242,27 +235,7 @@ npm test
 npm run test:e2e
 ```
 
-## 🌟 NIW Value Proposition
 
-This project demonstrates exceptional ability in areas of substantial merit and national importance:
-
-### Substantial Merit & National Importance
-- Addresses critical workforce preparation needs
-- Bridges the skills gap between education and industry
-- Incorporates both technical and soft skills training
-- Scalable solution for nationwide impact
-
-### Well-Positioned to Advance
-- Complex integration of RAG, agentic AI, and multi-modal interfaces
-- Advanced technical implementation requiring specialized expertise
-- Novel approach to career preparation through simulation
-- Industry-leading AI/ML architecture
-
-### Future Plans
-- Partnership with universities and career centers
-- Integration with major job platforms
-- Corporate training program development
-- Research publication on simulation-based learning effectiveness
 
 ## 📖 Documentation
 
@@ -271,20 +244,8 @@ This project demonstrates exceptional ability in areas of substantial merit and 
 - [Technical Architecture](docs/technical/ARCHITECTURE.md)
 - [Deployment Guide](docs/technical/DEPLOYMENT.md)
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Links
-
-- [Live Demo](https://ai-career-coach-demo.com) (Coming Soon)
-- [Documentation](https://docs.ai-career-coach.com) (Coming Soon)
-- [GitHub Repository](https://github.com/yourusername/ai-career-coach-simulator)
-
----
-
-**Built with ❤️ for the future workforce**
